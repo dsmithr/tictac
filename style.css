@@ -1,0 +1,181 @@
+
+button {
+  
+ 
+      display: inline-block;
+	  width: 150px;
+	  height: 35px;
+      margin-bottom: 0px;
+      
+      text-align: center;
+      vertical-align: middle;
+      cursor: pointer;
+      background-image: none;
+      border: 1px solid transparent;
+      white-space: nowrap;
+      padding: 1px 1px;
+      font-size: 15px;
+      line-height: 1.42857;
+      border-radius: 3px;
+      -moz-user-select: none;
+	  transition: all 350ms ease-in-out 0s;
+	    font-family: 'Source Sans Pro';
+	    font-style: normal;
+	    font-weight: 400;
+	    src: local('Source Sans Pro Light'), local('SourceSansPro-Light'), url(http://themes.googleusercontent.com/static/fonts/sourcesanspro/v4/toadOcfmlt9b38dHJxOBGNbE_oMaV8t2eFeISPpzbdE.woff) format('woff');
+}
+
+button:focus {
+  outline: none;
+}
+section.flat button {
+  color: #fff;
+  background-color: #9299a0;
+  text-shadow: ;
+  border: none;
+}
+section.flat button:hover,
+section.flat button.hover {
+  background-color: #9ca3a9;
+  text-shadow: ;
+}
+section.flat button:active,
+section.flat button.active {
+  background-color: #a7adb2;
+  text-shadow: ;
+}
+
+section.blue button {
+  color: #fff;
+  background-color: #5c88c6;
+  text-shadow: ;
+  border: none;
+}
+section.blue button:hover,
+section.blue button.hover {
+  background-color: #497abf;
+  text-shadow: ;
+}
+section.blue button:active,
+section.blue button.active {
+  background-color: #3e6eb1;
+  text-shadow: ;
+}
+
+section.green button {
+  color: #fff;
+  background-color: #93c47d;
+  text-shadow: ;
+  border: none;
+}
+section.green button:hover,
+section.green button.hover {
+  background-color: #7db862;
+  text-shadow: ;
+}
+section.green button:active,
+section.green button.active {
+  background-color: #93c47d;
+  text-shadow: ;
+}
+
+section.grey button {
+  color: #fff;
+  background-color: #717b85;
+  text-shadow: ;
+  border: none;
+}
+section.grey button:hover,
+section.grey button.hover {
+  background-color: #565e65;
+  text-shadow: ;
+}
+section.grey button:active,
+section.grey button.active {
+  background-color: #717b85;
+  text-shadow: ;
+}
+section.bluegrey button {
+  color: #fff;
+  background-color: #7b8ca2;
+  text-shadow: ;
+  border: none;
+}
+section.bluegrey button:hover,
+section.bluegrey button.hover {
+  background-color: #56667a;
+  text-shadow: ;
+}
+section.bluegrey button:active,
+section.bluegrey button.active {
+  background-color: #7b8ca2;
+  text-shadow: ;
+}
+
+section.toggle button {
+  color: #6ca8fc;
+  background: #fff;
+  border: solid 1px #6ca8fc;
+}
+section.toggle button:hover,
+section.toggle button.hover {
+  color: #fff;
+  background: #6ca8fc;
+  border-color: #6ca8fc;
+}
+section.toggle button:active,
+section.toggle button.active {
+    color: #fff;
+    background: #6ca8fc;
+    border-color: #6ca8fc;
+}
+section.assets button {
+  color: #fff;
+  background-color: #717b85;
+  text-shadow: ;
+  border: none;
+}
+section.assets button:hover,
+section.assets button.hover {
+  background-color: #4b7bab;
+  text-shadow: ;
+}
+section.assets button:active,
+section.assets button.active {
+  background-color: #4b7bab;
+  text-shadow: ;
+}
+section.audio button {
+  color: #fff;
+  background-color: #6a8ea8;
+  text-shadow: ;
+  border: none;
+}
+section.audio button:hover,
+section.audio button.hover {
+  background-color: #52748d;
+  text-shadow: ;
+}
+section.audio button:active,
+section.audio button.active {
+  background-color: #6a8ea8;
+  text-shadow: ;
+}
+section.border button {
+  color: #838d99;
+  background: rgba(0,0,0,0);
+  border: solid 1px #838d99;
+}
+section.border button:hover,
+section.border button.hover {
+  border-color: #5c6670;
+  color: #5c6670;
+}
+section.border button:active,
+section.border button.active {
+  border-color: #838d99;
+  color: #838d99;
+}
+section.150px-width{
+    width: 150px;
+}
